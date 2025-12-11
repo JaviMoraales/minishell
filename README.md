@@ -1,4 +1,4 @@
-# minishell
+# ft_minishell
 
 [![Project: 42](https://img.shields.io/badge/Project-42-blue.svg)](https://www.42.fr/)
 [![Language: C](https://img.shields.io/badge/Language-C-555)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -89,7 +89,6 @@ This repository contains the production-ready implementation developed collabora
 ├── include/            # Public headers
 ├── tests/              # Test cases and test runner scripts
 ├── Makefile            # Build & utility targets
-├── .gitignore
 └── README.md
 ```
 
