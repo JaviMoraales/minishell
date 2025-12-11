@@ -2,7 +2,7 @@
 
 [![Project: 42](https://img.shields.io/badge/Project-42-blue.svg)](https://www.42.fr/)
 [![Language: C](https://img.shields.io/badge/Language-C-555)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![Status: Production-ready](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
+![Status: Production-ready](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)
 
 Developed by **jamorale** and [asandova-ui](https://github.com/asandova-ui)
 
