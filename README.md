@@ -4,7 +4,8 @@
 [![Language: C](https://img.shields.io/badge/Language-C-555)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Status: Production-ready](https://img.shields.io/badge/Status-Production%20Ready-brightgreen)]
 
-**Maintainers:** `asandova-ui`, `jamorale`
+Developed by **jamorale** and [asandova-ui](https://github.com/asandova-ui)
+
 
 ---
 
